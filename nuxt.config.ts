@@ -23,7 +23,7 @@ export default defineNuxtConfig({
     redirectStatusCode: '301',
     linkCacheTtl: 60,
     redirectWithQuery: false,
-    homeURL: 'https://hylex.gg',
+    homeURL: '',
     cfAccountId: '',
     cfApiToken: '',
     dataset: 'sink',
